@@ -1,1 +1,1 @@
-[![Build Status](http://builder.storenvidia.white2net.com/job/website/badge/icon?style=plastic)](http://builder.storenvidia.white2net.com/job/white2net%20website/)
+[![Build Status](http://builder.storenvidia.white2net.com/job/website/badge/icon)](http://builder.storenvidia.white2net.com/job/website/)
