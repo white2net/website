@@ -1,1 +1,1 @@
-[![Build Status](http://185.228.1.4:8080/job/white2net%20website/badge/icon)](http://185.228.1.4:8080/job/white2net%20website/)
+[![Build Status](http://builder.storenvidia.white2net.com/job/white2net%20website/badge/icon)](http://builder.storenvidia.white2net.com/job/white2net%20website/)
